@@ -5,10 +5,10 @@
 
 int main()
 {
-	const int ROW, COL;
+	const int ROW = 3, COL = 3;
 	char arr[ROW][COL];
 	char* p1 = &arr[0][0];
-	char x = "X";
+	char x = 'X';
 	int a;
 
 	printf("Player 1 uses the X marker\n");
