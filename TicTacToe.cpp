@@ -46,6 +46,8 @@ int main()
 			if (a == 9)
 				*p1 + 8 = x;
 
+			for (ROW)
+
 		}
 
 		printf("%")
